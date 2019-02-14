@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 
-namespace WishList.AccountViewModels
+namespace WishList.Models.AccountViewModels
 {
     public class RegisterViewModel
     {
